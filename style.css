@@ -22,3 +22,33 @@ h1 {
 #cabecalho li {
   display: inline-block;
 }
+
+#minha_foto {
+    margin-top: 20%;
+}
+
+.artigoeaside {
+    display: inline-block;
+}
+
+.lado-esquerdo {
+margin-right: 60%;
+text-align: justify;
+border: 1px solid black;
+padding: 10px;
+}
+
+.lado-direito {
+text-align: justify;
+margin-left: 60%;
+margin-top: -125px;
+border: 1px solid black;
+padding: 10px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    width: 25%;
+    margin-top: 10%;
+    margin-bottom: 2%;
+}
