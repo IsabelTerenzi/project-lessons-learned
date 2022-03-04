@@ -4,8 +4,8 @@ body {
 
 h1 {
   color: white;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: 40px;
   line-height: 40px;
 }
@@ -24,31 +24,33 @@ h1 {
 }
 
 #minha_foto {
-    margin-top: 20%;
+  margin-top: 20%;
 }
 
 .artigoeaside {
-    display: inline-block;
+  display: inline-block;
 }
 
 .lado-esquerdo {
-margin-right: 60%;
-text-align: justify;
-border: 1px solid black;
-padding: 10px;
+  margin-right: 60%;
+  text-align: justify;
+  border: 1px solid black;
+  padding: 10px;
 }
 
 .lado-direito {
-text-align: justify;
-margin-left: 60%;
-margin-top: -125px;
-border: 1px solid black;
-padding: 10px;
+  text-align: justify;
+  margin-left: 60%;
+  margin-top: -125px;
+  border: 1px solid black;
+  padding: 10px;
 }
 
-table, th, td {
-    border: 1px solid black;
-    width: 25%;
-    margin-top: 10%;
-    margin-bottom: 2%;
+table,
+th,
+td {
+  border: 1px solid black;
+  width: 25%;
+  margin-top: 10%;
+  margin-bottom: 2%;
 }
