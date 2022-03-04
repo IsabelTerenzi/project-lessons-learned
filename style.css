@@ -2,7 +2,13 @@ body {
     background-color: rgb(253, 251, 251);
 }
 
+h1 {
+    color: white;
+}
 #cabecalho {
+    color: white;
+    background-color: green;
     position: fixed;
     top: 0;
+    list-style-type: none;
 }
