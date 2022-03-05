@@ -34,7 +34,7 @@ h1 {
 
 .lado-esquerdo {
   display: inline-block;
-  width: 40%;
+  width: 45%;
   text-align: justify;
   border: 1px solid black;
   padding: 10px;
@@ -44,10 +44,9 @@ h1 {
 .lado-direito {
   display: inline-block;
   text-align: justify;
-  width: 40%;
+  width: 45%;
   border: 1px solid black;
-  padding: 10px;
-  margin: auto;  
+  padding: 10px; 
 }
 
 table,
